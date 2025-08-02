@@ -1,1 +1,1 @@
-# Deepfake-Video-Detector
+# Deepfake-Video-Detection
